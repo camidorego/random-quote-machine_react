@@ -1,0 +1,24 @@
+
+#quote-box{
+    width: 800px;
+    height: 200px;
+    padding: 2em;
+    font-family: system-ui;
+    background-color: #bde0fe;
+}
+
+#text{
+    font-family: Georgia, serif;
+}
+
+.btn,.btn:hover {
+  background-color: #cdb4db;
+  color:white;
+  font-weight: 300;
+}
+
+#byMe{
+    font-family: cursive;
+    color:white
+}
+
